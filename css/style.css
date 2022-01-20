@@ -83,7 +83,7 @@ div.yellow {
 }
 
 div.green {
-    background-color: #00EB00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-right: 10px solid;
@@ -107,5 +107,5 @@ footer p {
     padding-top: 10px;
     padding-bottom: 10px;
     padding-right: 10px;
-    padding-left: 0px;
+    padding-left: none;
 }
