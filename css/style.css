@@ -27,8 +27,7 @@ p {
 img {
     width: 350px;
     display: block;
-    margin-right: auto;
-    margin-left: auto;
+    margin: auto;
     border: 10px dashed #ffffff
 }
 
@@ -99,7 +98,7 @@ span {
 }
 
 footer {
-    background: linear-gradient(#000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
+    background: linear-gradient(90deg,#000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
 }
 
 footer p {
@@ -108,4 +107,5 @@ footer p {
     padding-top: 10px;
     padding-bottom: 10px;
     padding-right: 10px;
+    padding-left: 0px;
 }
